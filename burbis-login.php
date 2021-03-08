@@ -16,6 +16,7 @@ Domain Path:  /d
 
 
 
+
 class BurbisLoginPlugin {
 	
 	public $plugin_name = "burbis-login";
