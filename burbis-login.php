@@ -4,13 +4,24 @@
 Plugin Name:  BURBİS WORDPRESS LOGİN EKLENTİSİ
 Plugin URI:   http://hakanyuksel.com.tr
 Description:  BUYÖN Login Formu Eklentisi
-Version:      20181003
+Version:      20210308
 Author:       Hakan YÜKSEL
 Author URI:   http://www.hakanyuksel.com.tr
 License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  wporg
 Domain Path:  /d
+
+Versiyon Özellikleri
+
+2021100308: 
+
+08.03.2021
+
+Yeni Burbis sitesi servislerine bağlantı şekli güncellendi
+
+
+
 */
 
 
